@@ -1,0 +1,30 @@
+# Industrial LLM Learning
+
+工业大模型工程学习与实践项目。
+
+## 学习目标
+
+- 掌握 Python 工程化与工业数据处理
+- 学习 RAG 与 Agent 应用开发
+- 实践 LoRA / QLoRA 模型微调
+- 掌握模型评测、部署与性能优化
+
+## 综合项目
+
+**CNC Intelligent Maintenance Assistant**
+
+逐步开发 CNC 智能运维助手，最终实现工业知识库、工具调用、模型微调与服务化部署。
+
+## 开发环境
+
+- OS: Ubuntu 26.04 LTS
+- CPU: Intel Core i5-13420H
+- RAM: 16GB
+- Python: 3.14.4
+
+## 项目进度
+
+- [x] P0：创建 Python 虚拟环境
+- [x] P0：初始化 Git 仓库
+- [ ] P0：完成第一个本地语言模型实验
+

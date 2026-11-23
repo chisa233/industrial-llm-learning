@@ -75,8 +75,6 @@
 |`idx_alarms_machine_time`|`alarm_events (machine_id, occurred_at)`|查单台机床近期报警流水|
 |`idx_alarms_code_source`|`alarm_events (alarm_code, alarm_source)`|同码异机过滤、高频报警 `GROUP BY` 统计|
 |`idx_maint_machine_verify`|`maintenance_records (machine_id, verify_status, reported_at)`|`JOIN` 历史工单快速排查未复测记录|
-[[SQLite 常用命令汇总#外键（`FOREIGN KEY`）与级联动作]]
-[[SQLite 常用命令汇总#索引 `CREATE INDEX`]]
 
 ## 6. 术语速查
 
